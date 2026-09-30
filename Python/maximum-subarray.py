@@ -3,7 +3,7 @@
 #Time Complexity: O(n)
 #Space Complexity: O(1)
 
-#I had to add "from typing import list" at the top to get it to work
+from typing import List
 
 
 class Solution: 
